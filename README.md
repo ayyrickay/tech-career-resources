@@ -10,9 +10,12 @@ A growing list of resources for those who are looking to land their first job in
 [Developer Tea](https://spec.fm/podcasts/developer-tea)
 [Shop Talk Show](https://shoptalkshow.com/)
 [99% Invisible](http://99percentinvisible.org/)
+[The Web Ahead (Archive)](http://thewebahead.net/)
 
 ## Books
 [Developing Products People Love](https://www.amazon.com/Designing-Products-People-Love-Successful/dp/1491923679)
+[You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)
+
 
 ## Articles
 [Ricky Holtz - Landing Your First Gig](https://docs.google.com/presentation/d/1nM2IjDALsrgneIzccmW9oZWRcX5Onxq3NXh6E9YUnr8/)
@@ -22,6 +25,8 @@ A growing list of resources for those who are looking to land their first job in
 
 ## Exercises
 [Daily UI](http://www.dailyui.co/)
+[HackerRank](https://hackerrank.com)
+[Twilio Quest](https://quest.twilio.com)
 
 ## People
 [Bo Ren](https://twitter.com/bosefina)
