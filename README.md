@@ -3,40 +3,59 @@ A growing list of resources for those who are looking to land their first job in
 
 ## Podcasts
 [Best Podcast Manager: Overcast](https://overcast.fm/)
+
 [Spec.fm Network](https://spec.fm/)
+
 [Immutable](http://spec.fm/podcasts/immutable)
+
 [Design Details](http://spec.fm/podcasts/design-details)
+
 [Javascript Air (Archive)](https://javascriptair.com/)
+
 [Developer Tea](https://spec.fm/podcasts/developer-tea)
+
 [Shop Talk Show](https://shoptalkshow.com/)
+
 [99% Invisible](http://99percentinvisible.org/)
+
 [The Web Ahead (Archive)](http://thewebahead.net/)
 
 ## Books
 [Developing Products People Love](https://www.amazon.com/Designing-Products-People-Love-Successful/dp/1491923679)
+
 [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)
 
 
 ## Articles
 [Ricky Holtz - Landing Your First Gig](https://docs.google.com/presentation/d/1nM2IjDALsrgneIzccmW9oZWRcX5Onxq3NXh6E9YUnr8/)
+
 [Julie Zhuo - Design's North Star](https://medium.com/the-year-of-the-looking-glass/designs-north-star-d469193063c5#.fhefvy96f)
+
 [Smashing Magazine](http://www.smashingmagazine.com/2013/06/13-tenets-user-experience/)
+
 [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Exercises
 [Daily UI](http://www.dailyui.co/)
+
 [HackerRank](https://hackerrank.com)
+
 [Twilio Quest](https://quest.twilio.com)
 
 ## People
 [Bo Ren](https://twitter.com/bosefina)
+
 [Chris Coyier](https://twitter.com/chriscoyier)
+
 [Erika Hall](https://twitter.com/mulegirl)
+
 [Julie Zhuo](https://twitter.com/joulee)
 
 ## Listserves/Resources
 [Lazy Bear](http://uxdesign.cc/)
+
 https://wdrl.info/
+
 http://sidebar.io/
 
 ## Meetups
