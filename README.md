@@ -57,6 +57,8 @@ A growing list of resources for those who are looking to land their first job in
 ## Listserves/Resources
 [Lazy Bear](http://uxdesign.cc/)
 
+[Weekly Javascript](https://javascriptweekly.com/)
+
 https://wdrl.info/
 
 http://sidebar.io/
