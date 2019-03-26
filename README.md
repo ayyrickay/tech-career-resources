@@ -51,6 +51,9 @@ A growing list of resources for those who are looking to land their first job in
 
 [Julie Zhuo](https://twitter.com/joulee)
 
+## Portfolios
+[Katey Basye](http://kateybasye.herokuapp.com/)
+
 ## Listserves/Resources
 [Lazy Bear](http://uxdesign.cc/)
 
